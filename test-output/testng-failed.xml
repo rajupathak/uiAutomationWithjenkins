@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="RegressionTest(failed)">
+    <classes>
+      <class name="uiAutomationWithjenkins.PaymentJourney.TC01_VerifyPayMentJourney">
+        <methods>
+          <include name="setUp"/>
+          <include name="endTest"/>
+          <include name="verifyAddNewContactJourney"/>
+        </methods>
+      </class> <!-- uiAutomationWithjenkins.PaymentJourney.TC01_VerifyPayMentJourney -->
+    </classes>
+  </test> <!-- RegressionTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\uiAutomationWithjenkins\src\main\java\uiAutomationWithjenkins\screenShots\Login Page_24_06_2017_02_39_48.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\uiAutomationWithjenkins\src\main\java\uiAutomationWithjenkins\screenShots\Login Page_24_06_2017_02_39_48.png' height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\uiAutomationWithjenkins\src\main\java\uiAutomationWithjenkins\screenShots\Easy Login Cookie  Form_24_06_2017_02_40_18.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\uiAutomationWithjenkins\src\main\java\uiAutomationWithjenkins\screenShots\Easy Login Cookie  Form_24_06_2017_02_40_18.png' height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\uiAutomationWithjenkins\src\main\java\uiAutomationWithjenkins\screenShots\Account summary page_24_06_2017_02_40_24.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\uiAutomationWithjenkins\src\main\java\uiAutomationWithjenkins\screenShots\Account summary page_24_06_2017_02_40_24.png' height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69962" started-at="2017-06-24T09:09:17Z" finished-at="2017-06-24T09:10:27Z">
+    <groups>
+    </groups>
+    <test name="RegressionTest" duration-ms="69962" started-at="2017-06-24T09:09:17Z" finished-at="2017-06-24T09:10:27Z">
+      <class name="uiAutomationWithjenkins.PaymentJourney.TC01_VerifyPayMentJourney">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:uiAutomationWithjenkins.PaymentJourney.TC01_VerifyPayMentJourney@3fee9989]" name="setUp" is-config="true" duration-ms="31256" started-at="2017-06-24T14:39:17Z" finished-at="2017-06-24T14:39:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\uiAutomationWithjenkins\src\main\java\uiAutomationWithjenkins\screenShots\Login Page_24_06_2017_02_39_48.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\uiAutomationWithjenkins\src\main\java\uiAutomationWithjenkins\screenShots\Login Page_24_06_2017_02_39_48.png' height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAddNewContactJourney()[pri:0, instance:uiAutomationWithjenkins.PaymentJourney.TC01_VerifyPayMentJourney@3fee9989]" name="verifyAddNewContactJourney" duration-ms="38408" started-at="2017-06-24T14:39:48Z" finished-at="2017-06-24T14:40:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\uiAutomationWithjenkins\src\main\java\uiAutomationWithjenkins\screenShots\Easy Login Cookie  Form_24_06_2017_02_40_18.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\uiAutomationWithjenkins\src\main\java\uiAutomationWithjenkins\screenShots\Easy Login Cookie  Form_24_06_2017_02_40_18.png' height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\uiAutomationWithjenkins\src\main\java\uiAutomationWithjenkins\screenShots\Account summary page_24_06_2017_02_40_24.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\uiAutomationWithjenkins\src\main\java\uiAutomationWithjenkins\screenShots\Account summary page_24_06_2017_02_40_24.png' height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAddNewContactJourney -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:uiAutomationWithjenkins.PaymentJourney.TC01_VerifyPayMentJourney@3fee9989]" name="endTest" is-config="true" duration-ms="294" started-at="2017-06-24T14:40:27Z" finished-at="2017-06-24T14:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- uiAutomationWithjenkins.PaymentJourney.TC01_VerifyPayMentJourney -->
+    </test> <!-- RegressionTest -->
+  </suite> <!-- Suite -->
+</testng-results>
